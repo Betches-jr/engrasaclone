@@ -1,0 +1,102 @@
+@import "/web/20221015191707cs_/http://engrasame.land/assets/css/font.css";
+#myVideo {
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: -1;
+}
+
+.download {
+    z-index: 1;
+    border: none;
+    margin-top: 35%;
+    width: auto;
+    max-width: 100%;
+    height: 80px;
+    cursor: pointer;
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.mobile {
+  display: none;
+}
+
+
+@-webkit-keyframes breathing {
+  0% {
+    -webkit-transform: scale(0.9);
+    transform: scale(0.9);
+  }
+
+  25% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+  }
+
+  60% {
+    -webkit-transform: scale(0.9);
+    transform: scale(0.9);
+  }
+
+  100% {
+    -webkit-transform: scale(0.9);
+    transform: scale(0.9);
+  }
+}
+
+@keyframes breathing {
+  0% {
+    -webkit-transform: scale(0.9);
+    -ms-transform: scale(0.9);
+    transform: scale(0.9);
+  }
+  25% {
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+  }
+
+  60% {
+    -webkit-transform: scale(0.9);
+    -ms-transform: scale(0.9);
+    transform: scale(0.9);
+  }
+
+  100% {
+    -webkit-transform: scale(0.9);
+    -ms-transform: scale(0.9);
+    transform: scale(0.9);
+  }
+}
+
+
+/*
+     FILE ARCHIVED ON 19:17:07 Oct 15, 2022 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 04:17:02 Jul 11, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.625
+  exclusion.robots: 0.024
+  exclusion.robots.policy: 0.011
+  esindex: 0.012
+  cdx.remote: 11.842
+  LoadShardBlock: 71.479 (3)
+  PetaboxLoader3.datanode: 95.982 (5)
+  load_resource: 85.039
+  PetaboxLoader3.resolve: 42.716
+  loaddict: 26.523
+*/
